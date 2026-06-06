@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Sameer Raj
 
-<!--
-**sameerraj3479/sameerraj3479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 AI/ML Enthusiast | Python Developer | Open Source Contributor
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AI/ML) Student at Parul University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+- 🌱 Currently learning AI, Machine Learning and Data Analytics
+- 💻 Strong in Python, C++ and Java
+- 🚀 Building real-world AI solutions
+- 🔭 Interested in Open Source Contributions
+
+## 🛠️ Tech Stack
+- Python
+- C++
+- Java
+- Git & GitHub
+- Machine Learning
+- Data Analytics
+
+## 📌 Projects
+- AI Farming Assistant
+- - Arduino Mini Game Console
+    
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/sameer-raj222
+- GitHub: github.com/sameerraj3479
+
+⭐ Always Learning, Always Building.
