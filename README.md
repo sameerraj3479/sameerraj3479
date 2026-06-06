@@ -10,18 +10,22 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
+<p align="center">
+🚀 Building AI Solutions • Open Source • B.Tech AI/ML
+</p>
 
 # Hi 👋, I'm Sameer Raj
 
-### 🚀 AI/ML Enthusiast | Python Developer | Open Source Contributor
+### 🚀 AI/ML Enthusiast | Open Source Contributor | Problem Solver
 
 🎓 B.Tech CSE (AI/ML) Student at Parul University
+
 🌱 Learning AI, Machine Learning & Data Analytics <br>
 🚀 Building Real-World Projects
 
 ## 💫 About Me
 - 🌱 Currently learning AI, Machine Learning and Data Analytics
-- 💻 Beginner in Python, C++ and Java
+- 💻 Python, C++ and Java
 - 🚀 Building real-world AI solutions
 - 🔭 Interested in Open Source Contributions
 
@@ -32,6 +36,11 @@
 - Git & GitHub
 - Machine Learning
 - Data Analytics
+- <h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sameerraj3479&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📌 Projects
 - AI Farming Assistant
