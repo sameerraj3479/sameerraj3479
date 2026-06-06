@@ -1,41 +1,23 @@
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-<h1>Hi 👋, I'm Sameer Raj</h1>
-
-<h3>
-Aspiring AI/ML Engineer | Open Source Contributor
-</h3>
-
-🎓 B.Tech CSE (AI/ML) @ Parul University <br>
-🌱 Learning AI, Machine Learning & Data Analytics <br>
-🚀 Building Real-World Projects
-
-</td>
-</tr>
-</table>
-
-</div>
-🎓 B.Tech CSE (AI/ML) @ Parul University <br>
-🌱 Learning AI, Machine Learning & Data Analytics <br>
-🚀 Building Real-World Projects
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Sameer%20Raj&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Sameer+Raj;Aspiring+AI%2FML+Engineer;Open+Source+Contributor" />
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
-</td>
-</tr>
-</table>
-🎓 B.Tech CSE (AI/ML) @ Parul University <br>
-🌱 Learning AI, Machine Learning & Data Analytics <br>
-🚀 Beginner to Building Real-World Projects
-</p>
+
 # Hi 👋, I'm Sameer Raj
 
 ### 🚀 AI/ML Enthusiast | Python Developer | Open Source Contributor
 
 🎓 B.Tech CSE (AI/ML) Student at Parul University
+🌱 Learning AI, Machine Learning & Data Analytics <br>
+🚀 Building Real-World Projects
 
 ## 💫 About Me
 - 🌱 Currently learning AI, Machine Learning and Data Analytics
