@@ -1,3 +1,36 @@
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+<h1>Hi 👋, I'm Sameer Raj</h1>
+
+<h3>
+Aspiring AI/ML Engineer | Open Source Contributor
+</h3>
+
+🎓 B.Tech CSE (AI/ML) @ Parul University <br>
+🌱 Learning AI, Machine Learning & Data Analytics <br>
+🚀 Building Real-World Projects
+
+</td>
+</tr>
+</table>
+
+</div>
+🎓 B.Tech CSE (AI/ML) @ Parul University <br>
+🌱 Learning AI, Machine Learning & Data Analytics <br>
+🚀 Building Real-World Projects
+</p>
+
+</td>
+</tr>
+</table>
+🎓 B.Tech CSE (AI/ML) @ Parul University <br>
+🌱 Learning AI, Machine Learning & Data Analytics <br>
+🚀 Beginner to Building Real-World Projects
+</p>
 # Hi 👋, I'm Sameer Raj
 
 ### 🚀 AI/ML Enthusiast | Python Developer | Open Source Contributor
@@ -6,7 +39,7 @@
 
 ## 💫 About Me
 - 🌱 Currently learning AI, Machine Learning and Data Analytics
-- 💻 Strong in Python, C++ and Java
+- 💻 Beginner in Python, C++ and Java
 - 🚀 Building real-world AI solutions
 - 🔭 Interested in Open Source Contributions
 
