@@ -36,10 +36,11 @@
 - Git & GitHub
 - Machine Learning
 - Data Analytics
-- <h2 align="center">📊 GitHub Stats</h2>
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameerraj3479&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=sameerraj3479&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📌 Projects
