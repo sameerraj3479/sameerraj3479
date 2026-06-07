@@ -31,7 +31,7 @@
 
 ---
 
-##About Me
+## About Me
 
 - 🌱 Currently learning Python, C++ and Java
 - 💻 C, HTML, Python, C++ and Java
@@ -40,7 +40,7 @@
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -51,7 +51,7 @@
 
 ---
 
-##GitHub Streak
+## GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=sameerraj3479&theme=tokyonight&hide_border=true" />
@@ -59,14 +59,14 @@
 
 ---
 
-##Projects
+## Projects
 
 - 🚜 AI Farming Assistant
 - 🎮 Arduino Mini Game Console
 
 ---
 
-##Connect With Me
+## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/sameer-raj222
 - GitHub: github.com/sameerraj3479
