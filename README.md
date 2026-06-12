@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-🚀 Building AI Solutions • Open Source • B.Tech AI/ML
+• Building AI Solutions • Open Source • B.Tech AI/ML
 </p>
 
 # Hi  I'm Sameer Raj
@@ -25,7 +25,7 @@
 
 🎓 B.Tech CSE (AI/ML) Student at Parul University
 
-🌱 Learning C, HTML, Python, C++
+🌱 Learning C, HTML, Python, C++, Java
 
 🚀 Building Real-World Projects
 
@@ -60,7 +60,7 @@
 ---
 
 ## Projects
-
+- 🌌 Galaxy Black Hole Simulator
 - 🚜 AI Farming Assistant
 - 🎮 Arduino Mini Game Console
 
@@ -68,12 +68,30 @@
 
 ## Connect With Me
 
-- LinkedIn: www.linkedin.com/in/sameer-raj222
-- GitHub: github.com/sameerraj3479
+<p align="center">
+  <a href="https://www.linkedin.com/in/sameer-raj222">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+<br>
+<p align="center"> <a href="mailto:sameerraj3479@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/sameerraj3479">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Sameer_raj22/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
 
 ---
 
-<p align="center">
-⭐ Always Learning, Always Building ⭐
-</p>
+<table align="center">
+<tr>
+<td align="center">
 
+ ⭐ **Always Learning, Always Building** ⭐ 
+
+</td>
+</tr>
+</table>
