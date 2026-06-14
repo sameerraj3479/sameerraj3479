@@ -60,6 +60,8 @@
 ---
 
 ## Projects
+- 🌐 Language Translation Tool
+- 📊 Student Grade Tracker System
 - 🌌 Galaxy Black Hole Simulator
 - 🚜 AI Farming Assistant
 - 🎮 Arduino Mini Game Console
