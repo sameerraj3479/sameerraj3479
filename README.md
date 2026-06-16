@@ -60,6 +60,7 @@
 ---
 
 ## Projects
+- 🤖 Chat Bot FAQ
 - 🌐 Language Translation Tool
 - 📊 Student Grade Tracker System
 - 🌌 Galaxy Black Hole Simulator
