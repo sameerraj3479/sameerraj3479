@@ -60,6 +60,7 @@
 ---
 
 ## Projects
+- 📈 Stock Trading Market
 - 🤖 Chat Bot FAQ
 - 🌐 Language Translation Tool
 - 📊 Student Grade Tracker System
