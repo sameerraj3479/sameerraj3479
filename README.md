@@ -60,6 +60,7 @@
 ---
 
 ## Projects
+- 🏨 Hotel Reservation System
 - 📈 Stock Trading Market
 - 🤖 Chat Bot FAQ
 - 🌐 Language Translation Tool
